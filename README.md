@@ -27,4 +27,4 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:ddoed2201@pusan.ac.kr)
+<img src="https://img.shields.io/badge/ddoed2201@pusan.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
