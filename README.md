@@ -27,4 +27,4 @@
 
  
 # :mailbox_with_mail: Contacts
-<img src="https://img.shields.io/badge/ddoed2201@pusan.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/yimnabin20051022@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
