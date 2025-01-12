@@ -1,8 +1,36 @@
 # Ddoed
 
 
-![ddoed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddoed&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoed123)](https://solved.ac/ddoed123/)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; height: auto;">
+  <!-- 첫 번째 줄: GitHub Stats 이미지들 -->
+  <div style="display: flex; gap: 10px;">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=ddoed&show_icons=true&locale=en&theme=tokyonight" 
+      alt="ddoed" 
+      style="height:180px;" 
+    />
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ddoed&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+      alt="ddoed" 
+      style="height:180px;" 
+    />
+  </div>
+  
+  <!-- 개행을 위한 div 추가 -->
+  <br/>
+
+  <!-- 두 번째 줄: 백준 프로필 배지 -->
+  <a href="https://solved.ac/ddoed123/">
+    <img 
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoed123" 
+      alt="Solved.ac Profile" 
+    />
+  </a>
+</div>
+
+
 # 💪Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
