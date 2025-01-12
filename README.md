@@ -39,6 +39,6 @@
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   </div>
 
-  <h3>:mailbox_with_mail: Contacts</h3>
-  <img src="https://img.shields.io/badge/yimnabin20051022@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-</div>
+ <h3>:mailbox_with_mail: Contacts</h3>
+<h3 style="font-size: 14px;">yimnabin20051022@gmail.com</h3>
+
