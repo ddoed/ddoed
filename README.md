@@ -9,8 +9,8 @@
 
 ### About me
 * **Pusan National University** Computer Engineering (2024.03 ~ )
-* Studying **Java** and **Spring**, with an interest in backend development.  
-* Interested in **Unity** and 3D game development.  
+* Studying **Spring**, with an interest in backend development.  
+* Interested in **Unity** and Game development.  
 
 <div style="text-align: center;">
 
