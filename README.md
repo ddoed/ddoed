@@ -45,7 +45,7 @@
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoed123)](https://solved.ac/ddoed123)
 ### Atcoder
-[![Atcoder Profile](https://atcoder-badge.kro.kr?id=ddoed123)](https://atcoder.jp/users/ddoed123)
+<img src="https://atrating.baoshuo.dev/rating?username=ddoed123">
 
 
 
